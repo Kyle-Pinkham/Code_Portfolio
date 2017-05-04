@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3f433cf01deafb9458848adb71116ecd
+timeCreated: 1493191775
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - addButton: {instanceID: 0}
+  - subButton: {instanceID: 0}
+  - divButton: {instanceID: 0}
+  - mulButton: {instanceID: 0}
+  - InNum1: {instanceID: 0}
+  - InNum2: {instanceID: 0}
+  - resultNum: {instanceID: 0}
+  - Source: {fileID: 82423699720003356, guid: 0801788e239162a47bd2a3fa26ff9428, type: 2}
+  - popSound: {fileID: 8300000, guid: afa847a77dd20184ba72df8ba9183730, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

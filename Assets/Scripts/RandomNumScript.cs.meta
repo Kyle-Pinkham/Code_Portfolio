@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d1dc0b03ef0f09e41bb10cb82cfd1d08
+timeCreated: 1493195058
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Circle: {fileID: 1587396822176150, guid: 8ac1945c0dcf5094b8344da162ecd255, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

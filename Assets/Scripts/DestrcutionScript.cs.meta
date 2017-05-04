@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e24f11bb0787c454e8f938510f28340b
+timeCreated: 1493181743
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - PopSound: {fileID: 8300000, guid: afa847a77dd20184ba72df8ba9183730, type: 3}
+  - source: {fileID: 82423699720003356, guid: 0801788e239162a47bd2a3fa26ff9428, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
